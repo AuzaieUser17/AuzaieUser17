@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**AuzaieUser17/AuzaieUser17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name in Auza, my hobby is to make Animation and making a Game (im trying to at least)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Bot Discord
-- 🌱 I’m currently learning Bot Discord, OOP
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Video Game (Still in Brainstorming Proces)
+- 🌱 I’m currently learning OOP, Animating and Game Development
+- 👯 I’m looking to collaborate on Making Animations and Games
+- 🤔 I’m looking for help with finding a Game Engine for Beginners
+- 💬 Ask me about Anything about me
+- 📫 How to reach me: No Social Media Account
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a Youtube Channel --> https://www.youtube.com/channel/UCgXNNPrZy8c6qDQdV0eoPXg
