@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name in Auza, my hobby is to make Animation and making a Game (im trying to at least)
+Hi, my name in Auza, my hobby is to make Animation and Video Game (im trying to at least)
 
 - 🔭 I’m currently working on a Video Game (Still in Brainstorming Proces)
 - 🌱 I’m currently learning OOP, Animating and Game Development
